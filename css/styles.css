@@ -1,0 +1,192 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Montagu Slab', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  padding-top: 50px;
+ /* Sacramento
+ <a class="footer-link" href="https://www.linkedin.com/in/arpit-sharma-bb70a61b5">LinkedIn</a>
+ <a class="footer-link" href="https://twitter.com/ArpitSh05899488?s=08">Twitter</a>
+ <a class="footer-link" href=" https://www.instagram.com/invites/contact/?i=1i9ohkr656h65&utm_content=58msi4u">Instagram</a>
+ <p class="copyright">© 2021 arpit dutt sharma.</p>*/
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 0px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-bottom: 0px 0px 20px 0px;
+}
+p{
+  line-height: 2;
+  padding-bottom: 15px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #E4F9F5;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #66BFBF;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #66BFBF;
+  color: white;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container{
+   background-color: #E4F9F5;
+   position: relative;
+   padding-top: 10px;
+}
+
+.middle-container{
+   margin: 50px 0 10px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.intro{
+  width: 80%;
+  margin: auto;
+  text-align: left;
+}
+.pro{
+  text-decoration: underline;
+}
+.footer-link{
+   color: #11999E;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 80px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 170px;
+}
+.h2-picture{
+  width: 15%;
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 50px 150px;
+  text-align: left;
+}
+.skill-row2{
+  width: 50%;
+  margin: 0px 150px 100px auto;
+  text-align: left;
+}
+.skill-row3{
+  margin: 0px 30px;
+}
+.hydrogen{
+  width: 20%;
+}
+.profile-pic{
+  width: 10%;
+}
+.name{
+  padding-left: 300px;
+  padding-right: 0px;
+}
+.computer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #1199E);
+  background-image: -moz-linear-gradient(top, #66BFBF, #1199E);
+  background-image: -ms-linear-gradient(top, #66BFBF, #1199E);
+  background-image: -o-linear-gradient(top, #66BFBF, #1199E);
+  background-image: linear-gradient(to bottom,#66BFBF, #1199E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC48D);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC48D);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC48D);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC48D);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC48D);
+  text-decoration: none;
+}
+
+.title{
+  padding-bottom: 100px;
+}
